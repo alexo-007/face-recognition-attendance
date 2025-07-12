@@ -78,7 +78,7 @@ To enable email notifications, replace:
 ├── TrainingImageLabel/
 ├── haarcascade_frontalface_default.xml
 ├── requirements.txt
-└── your_script.py
+└── main.py
 ```
 
 ---
